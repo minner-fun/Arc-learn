@@ -15,3 +15,4 @@ docs/
 
 # Circle entity secret recovery downloads (sensitive)
 recovery_file*.dat
+/recovery/

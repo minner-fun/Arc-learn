@@ -15,7 +15,7 @@ wallets_api = developer_controlled_wallets.WalletsApi(client)
 # Create a wallet set
 wallet_set = wallet_sets_api.create_wallet_set(
     developer_controlled_wallets.CreateWalletSetRequest.from_dict({
-        "name": "Wallet Set 1"
+        "name": "Wallet Set 2"
     })
 )
 
